@@ -10,6 +10,7 @@ namespace KhayyamTriangle
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter:");
         }
     }
 }
