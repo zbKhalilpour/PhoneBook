@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53BD4B10-EE26-4B64-9D1F-91513F877DA1}</ProjectGuid>
+    <ProjectGuid>{C4992399-4453-4B05-9178-501748729CB5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>KhayyamTriangle</RootNamespace>
     <AssemblyName>KhayyamTriangle</AssemblyName>
